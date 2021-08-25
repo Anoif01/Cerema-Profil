@@ -8,7 +8,7 @@
 3. Exécutez le code suivant pour générer le fichier exe, cela prendra un certain temps
 > pyinstaller -F Logiciel_Profil_v1.py
 4. (Facultatif) Entrez Enigma Virtual Box pour compresser à nouveau le fichier exe, ce qui accélérera l'exécution du fichier.
-5. Avant d'exécuter le logiciel, mettez les images et le modèle (yolo-tiny.weights) dans le dossier ‘dist’ généré (où Logiciel_Profil_v1.exe est généré)
+5. Avant d'exécuter le logiciel, mettez les images et le modèle pré-entraîné (yolo-tiny.weights, lien donné en dessous) dans le dossier ‘dist’ généré (où Logiciel_Profil_v1.exe est généré)
 6. Exécutez le logiciel et suivez les instructions dans l'écran AIDE
 
 ---
@@ -41,6 +41,8 @@
 
 - **yolo-tiny.weights**
 
+    Adresse pour téléchargé le modèle YOLO v3 - https://pjreddie.com/media/files/yolo-tiny.weights
+    
     Paramètres du modèle YOLO v3 finetuné
 
 ### Images
