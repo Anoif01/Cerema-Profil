@@ -17,46 +17,46 @@
 
 ### Codes
 
-- Logiciel_Profil_v1.py
+- **Logiciel_Profil_v1.py**
 
     L'interface du logiciel et les fonctions principales pour création des courbes
 
-- utils.py
+- **utils.py**
 
     Les outils pour la prédition de Yolo (génération de bounding box, chargement des paramètres, etc.)
 
-- detect.py
+- **detect.py**
 
     La structure du modèle Yolo
 
-- treatData.py
+- **treatData.py**
 
     Pré-traitement des données de csvs pour calculer les vitesse, distance, ...(l'alignement, le remplissage des blancs, ...)
 
-- video2.py
+- **video2.py**
 
     Traitement des données de CI, CAN, Lidar (l'alignement, le remplissage des blancs, ...)
 
 ### Modèle
 
-- yolo-tiny.weights
+- **yolo-tiny.weights**
 
     Paramètres du modèle YOLO finetuné
 
 ### Images
 
-- CONT1.png
+- **CONT1.png**
 
     Fond pour afficher les données 
 
-- logo-3.png
+- **logo-3.png**
 
     Logo de Céréma
 
-- fenetre0.png
+- **fenetre0.png**
 
     Fond de page d'accueil
 
-- doc_0610.png
+- **doc_0610.png**
 
     Tutorial dans l'écran 'AIDE'
