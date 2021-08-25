@@ -41,13 +41,13 @@
 
 - **yolo-tiny.weights**
 
-    Paramètres du modèle YOLO finetuné
+    Paramètres du modèle YOLO v3 finetuné
 
 ### Images
 
 - **CONT1.png**
 
-    Fond pour afficher les données 
+    Fond pour afficher les dates, les durées de csv
 
 - **logo-3.png**
 
